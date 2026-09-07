@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<rect width="64" height="64" rx="14" fill="#4E3B2C"/>
+<g transform="translate(32 32) scale(0.86) translate(-32 -32)">
+<polygon points="32,32 26.64,19.07 32,8 37.36,19.07" fill="#F4F2E6"/><polygon points="32,32 37.36,19.07 48.97,15.03 44.93,26.64" fill="#F4F2E6"/><polygon points="32,32 44.93,37.36 48.97,48.97 37.36,44.93" fill="#F4F2E6"/><polygon points="32,32 37.36,44.93 32,56 26.64,44.93" fill="#F4F2E6"/>
+<polygon points="32,32 19.07,26.64 15.03,15.03 26.64,19.07" fill="#C49A6C"/><polygon points="32,32 19.07,37.36 8,32 19.07,26.64" fill="#C49A6C"/><polygon points="32,32 26.64,44.93 15.03,48.97 19.07,37.36" fill="#C49A6C"/>
+<polygon points="32,32 44.93,26.64 56,32 44.93,37.36" fill="#4E3B2C" stroke="#4E3B2C" stroke-width="2" stroke-linejoin="round"/>
+<g fill="none" stroke="#4E3B2C" stroke-width="2.6" stroke-linecap="round"><path d="M32 32 L37.36,19.07"/><path d="M32 32 L37.36,44.93"/><path d="M32 32 L26.64,44.93"/><path d="M32 32 L19.07,37.36"/><path d="M32 32 L19.07,26.64"/><path d="M32 32 L26.64,19.07"/></g>
+</g>
+</svg>

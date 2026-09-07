@@ -1,7 +1,20 @@
-# Kaytala
+<div align="center">
 
-An offline desktop app for recording student grades and attendance, built for one teacher on one
-Windows PC.
+<img src="assets/icon.svg" width="78" alt="">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-dark.png">
+  <img src="assets/wordmark-light.png" width="270" alt="Kaytala">
+</picture>
+
+<p>
+  An offline desktop app for recording student grades and attendance,<br>
+  built for one teacher on one Windows PC.
+</p>
+
+</div>
+
+---
 
 **The source is private** — the app handles real student records and ships to a single machine.
 This page is an overview of what it does and the reasoning behind the parts that were hard.
