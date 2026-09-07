@@ -4,7 +4,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-dark.png">
-  <img src="assets/wordmark-light.png" width="270" alt="Kaytala">
+  <img src="assets/wordmark-light.png" width="305" alt="Kaytala">
 </picture>
 
 <p>
